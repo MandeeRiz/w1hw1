@@ -1,0 +1,74 @@
+div {
+    margin: 0px;
+    padding: 10px;
+    justify-content: space-around;
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+#navDiv{
+    border-style: solid;
+    border-width: 1em;
+    border-color:white;
+    background-color: grey;
+    height: 800px;
+    list-style-type: none;
+    list-style: none;
+    line-height: 50%;
+    text-align: center;
+
+}
+
+.reviewsDiv{
+    border-style: solid;
+    border-width: 1em;
+    border-color:white;
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    display: block;
+
+}
+
+.visitDiv{
+    border-style: solid;
+    border-width: 1em;
+    border-color:white;
+    background-color: grey;
+    margin-top: 300px;
+    position: absolute;
+    margin-left: 310px;
+    width:770px;
+    height: 500px;
+    display: flexbox;
+    
+}
+
+.darkboxDiv{
+    background-color: rgb(70, 67, 67);
+    margin-bottom: 20px;
+    margin-top: 200px;
+    margin-right: 20px;
+    margin-left: 0px;
+    width: 80%;
+    position:absolute;
+    height: 200px;
+}
+
+h3 {
+    display: flex;
+}
+
+li{
+    text-align: center;
+    margin-top: 90%;
+}
+
+p{ 
+    margin-top: 5%;
+    margin-left: 0%;
+    
+
+}
